@@ -1,1 +1,8 @@
-loadLDocA("libro","xml")
+loadLDocA("libro", "xml")
+
+ function gestionarFicheroXML(fichero) {
+
+
+
+
+}
