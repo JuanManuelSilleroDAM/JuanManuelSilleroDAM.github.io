@@ -10,7 +10,7 @@ function loadLDocA(fichero,tipo)
             {
                 gestionarFicheroXML(http.responseXML)
             }
-            else
+            else 
 			    gestionarFicheroTXT(http.responseText)
 		}})
 }
