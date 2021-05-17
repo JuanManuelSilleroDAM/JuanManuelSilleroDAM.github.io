@@ -4,6 +4,9 @@ loadLDocA("libro.xml", "xml")
 
 alert(fichero)
 
+let capaVacia = document.querySelector("#ficheroXML")
+let libros = xmlDoc.querySelectorAll("libro")
+
 
 
 
