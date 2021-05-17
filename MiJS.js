@@ -5,4 +5,6 @@ loadLDocA("libro.xml", "xml")
 alert(fichero)
 
 
+
+
 }
