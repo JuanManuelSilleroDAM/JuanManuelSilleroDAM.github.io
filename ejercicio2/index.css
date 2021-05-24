@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    flex-direction: column;
+}
+
+.izquierda{
+
+    align-self: flex-start;
+
+
+}
+
+.derecha{
+
+    align-self: flex-end;
+
+}
